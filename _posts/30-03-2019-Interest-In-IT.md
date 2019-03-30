@@ -1,7 +1,7 @@
 ---
-layout:     _post
-title:      Interest in IT
-subtitle:   Talk about IT
+layout:     post
+title:      Interest-in-IT
+subtitle:   Talk-about-IT
 date:       30-03-2019
 author:     QT
 header-img: img/bd6a-fysnevk5838528.jpg  
