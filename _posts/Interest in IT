@@ -14,14 +14,12 @@ tags:
 
 > What am I interest in IT?
 
->img/
+>img/172344g6tsuasyytq2dd7a.png 
 
-#### 安装 tree
-使用 **brew** 进行安装
+#### Programming is one of my favourite thing in IT, I interested to type code to create something. it will make me feel satisfy.
 
-	$ brew install tree
 
-#### 使用
+> 使用
 - 直接使用 `tree` 命令，会在当前文件目录下，递归输出所有文件层级
 	
 		$ tree
