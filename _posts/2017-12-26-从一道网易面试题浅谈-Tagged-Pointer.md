@@ -17,7 +17,7 @@ tags:
 # Ideal Job
 
 This is the job I looking for:
-![](https://join.qq.com/post.php?post=103&pid=1)
+![Job offer]()
 
 The job offer above is find out from a Chinese company which called [**Tencent**](https://join.qq.com/post.php?post=103&pid=1), it is a Chinese multinational investment holding conglomerate founded in 1998, whose subsidiaries specialise in various Internet-related services and products, entertainment, artificial intelligence and technology both in China and globally. 
 
