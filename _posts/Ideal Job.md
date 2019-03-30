@@ -4,7 +4,7 @@ title:      Ideal Job
 subtitle:   Talk about My ideal job 
 date:       30-03-2019
 author:     QT
-header-img: img/post-bg-2015.jpg
+header-img: img/Light-bulb-book-darkness_1366x768.jpg 
 catalog: true
 tags:
     - Job
@@ -13,11 +13,13 @@ tags:
     - Qualifications
 ---
 
-# 随便谈谈
+# Ideal Job
 
-今天是情人节，首先祝大家情人节快乐~
+This is the job I looking for:
 
-在这特殊的节**日**里，我特意花了半天的时间，我将在简书中的文章都搬到 [**BY Blog**](http://qiubaiying.github.io) 上，顺便又修改了下博客框架。
+img/
+
+The job is find out from a Chinese company which called [**Tencent**](http://qiubaiying.github.io) 上，顺便又修改了下博客框架。
 
 # 关于分享
 
