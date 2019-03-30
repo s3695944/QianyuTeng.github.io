@@ -4,7 +4,7 @@ title:      Interest in IT
 subtitle:   Talk about IT
 date:       30-03-2019
 author:     QT
-header-img: img/3DF91CB4-0A60-444F-971D-88A58C4EDBFD.png.jpg 
+header-img: img/bd6a-fysnevk5838528.jpg  
 catalog: true
 tags:
     - IT
