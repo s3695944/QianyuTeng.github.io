@@ -17,9 +17,11 @@ tags:
 
 This is the job I looking for:
 
-img/
+img/屏幕截图(16).png
 
-The job is find out from a Chinese company which called [**Tencent**](http://qiubaiying.github.io) 上，顺便又修改了下博客框架。
+The job offer above is find out from a Chinese company which called [**Tencent**](https://join.qq.com/post.php?post=103&pid=1), it is a Chinese multinational investment holding conglomerate founded in 1998, whose subsidiaries specialise in various Internet-related services and products, entertainment, artificial intelligence and technology both in China and globally. 
+
+Tencent is the world's largest gaming company,[4] one of the world's most valuable technology conglomerates,[5] one of the world's largest social media companies,[6] and one of the world's largest venture capital firms and investment corporations.
 
 # 关于分享
 
