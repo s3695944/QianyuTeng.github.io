@@ -1,15 +1,16 @@
 ---
 layout:     post
-title:      随便聊聊
-subtitle:   2017 情人节快乐~ 
-date:       2017-02-14
-author:     BY
+title:      Ideal Job
+subtitle:   Talk about My ideal job 
+date:       30-03-2019
+author:     QT
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 生活
-    - 博客
-    - 漫谈
+    - Job
+    - Skills
+    - Experience 
+    - Qualifications
 ---
 
 # 随便谈谈
