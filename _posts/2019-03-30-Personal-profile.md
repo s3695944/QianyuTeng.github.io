@@ -16,7 +16,7 @@ tags:
     - 16 personalities
 ---
 
-#### Myers-Briggs ：
+####  ：
 
 ![]()
 
@@ -25,3 +25,5 @@ tags:
 ![](https://github.com/QianyuTeng/QianyuTeng.github.io/blob/master/img/1553928866155.jpg)
 
 #### 16 personalities :
+
+![](https://github.com/QianyuTeng/QianyuTeng.github.io/blob/master/img/1554005514060.jpg)
