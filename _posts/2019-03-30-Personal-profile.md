@@ -22,11 +22,11 @@ tags:
 
 ## learning style ：
 
-[![]( https://github.com/QianyuTeng/QianyuTeng.github.io/blob/master/img/1553928866155.jpg)](http://qianyuteng.github.io/)
+![]( (https://ws2.sinaimg.cn/large/006tKfTcly1g1m7vnkm33j30jt0h7tcf.jpg)
 
 ## 16 personalities :
 
-[![]( https://github.com/QianyuTeng/QianyuTeng.github.io/blob/master/img/1554005514060.jpg)](http://qianyuteng.github.io/)
+![](https://ws3.sinaimg.cn/large/006tKfTcly1g1m7v6o1ppj30wf0lmwlo.jpg)
 
 ##### The results of test above showing lots of information, some of tests said I am quiet usually.
 ##### In fact, I know I am always quiet, but I just prefer work and study by myself. It's not good.
