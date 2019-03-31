@@ -4,7 +4,7 @@ title:      Personal Profile
 subtitle:   used by employers to get specific information about potential employees.
 date:       2019-03-30
 author:     QT
-header-img: img/post_bg_debug.png
+header-img: img/bd6a-fysnevk5838528.jpg 
 catalog: true
 tags:
     - Test
