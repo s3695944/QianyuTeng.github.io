@@ -18,7 +18,7 @@ tags:
 
 ## Alpha EQ Socieity：
 
-![](img/1554006182672.jpg)
+![](1554006182672.jpg)
 
 ## learning style ：
 
